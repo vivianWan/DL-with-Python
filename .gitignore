@@ -1,0 +1,12 @@
+.pytest_cache/
+__pycache__/
+data/
+python_test/
+test/
+train/
+validation/
+sequence/aclImdb/
+*.h5
+.vscode
+*.zip
+*.csv
