@@ -21,7 +21,8 @@ from keras import models
 from keras import layers
 from keras import optimizers
 
-base_dir = 'C:/Users/Wei Wan/Documents\DeepLearning/DL with Python/'
+
+base_dir = 'C:/Users/Wei Wan/Documents/DeepLearning/DL with Python/'
 train_dir=os.path.join(base_dir,'train')
 validation_dir=os.path.join(base_dir,'validation')
 test_dir=os.path.join(base_dir,'test')
